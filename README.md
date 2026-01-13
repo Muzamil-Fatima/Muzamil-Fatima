@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Muzamil
 
+🚀 Building scalable MERN applications & data-driven solutions
+
 I am a passionate **MERN Stack Developer** and Computer Science student, focused on building modern, user-friendly, and scalable web applications.
 
 I enjoy turning ideas into clean, smooth, and functional websites using the latest web technologies.
