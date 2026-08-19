@@ -1,13 +1,3 @@
-Absolutely. Since you’re **now a graduate**, your GitHub profile should no longer say “Computer Science student.” I’d also make your positioning more professional and avoid listing technologies that you’re only beginning to learn as if they’re your primary expertise.
-
-Based on your current work, I’d position you as:
-
-**MERN Stack Developer | Full-Stack Developer | AI/ML Enthusiast**
-
-And I’d include your real-world experience with **CareScynify, REST APIs, authentication, MongoDB, Cloudinary, Socket.IO, FastAPI, LangChain, AI integrations, PDF processing, and responsive UI development**.
-
-Here is a more professional GitHub profile README you can use:
-
 # 👋 Hi, I'm Muzamil
 
 ### MERN Stack Developer | Full-Stack Developer | AI/ML Enthusiast
